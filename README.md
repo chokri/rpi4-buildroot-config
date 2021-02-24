@@ -4,7 +4,7 @@
 
 make sure the rpi4 folder have to be in same directory with buildroot.
 
-***```
+```
 $ wget http://www.buildroot.org/downloads/buildroot-2020.02.tar.bz2 
 $ tar xf buildroot-2020.02.tar.bz2
 ```
